@@ -1,0 +1,36 @@
+_repo: A-Connecticut-Yankee-in-King-Arthur-s-Court-Part-2._7243
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_bookshelf: Precursors of Science Fiction
+gutenberg_issued: '2004-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Great Britain -- Fiction'
+- !lcsh 'Arthurian romances -- Adaptations'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Britons -- Fiction'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Connecticut Yankee in King Arthur's Court, Part 2.
+url: http://www.gutenberg.org/ebooks/7243
